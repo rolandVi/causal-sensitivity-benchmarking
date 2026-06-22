@@ -1,0 +1,32 @@
+# Thesis write-up and presentation materials (kept local, excluded from the public code repo)
+docs/
+paper/
+poster/
+presentation/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.env
+
+# Tooling / assistant config
+.github/
+GEMINI.md
+CLAUDE.md
+.claude/
